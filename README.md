@@ -33,7 +33,7 @@ This is a simple calculator application built using **PyQt6**. The app provides 
 1. **Clone the Repository**:
 
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/EkeneVictor/Calculator-App>
     ```
 
 2. **Install the required dependencies**:
